@@ -2,7 +2,7 @@
 
 An css development challenge for creating a simple button
 Inline-style: 
-![css test image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "button")
+![css test image](https://github.com/ronashco/html-css-challenge/blob/master/css-button.png "button")
 
 ## Introduction 
 In this challenge, you are going to develop above button with all its details.
