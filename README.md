@@ -1,7 +1,8 @@
 # Html-css-challenge
 
 An css development challenge for creating a simple button
-Inline-style: 
+
+
 ![css test image](https://github.com/ronashco/html-css-challenge/blob/master/css-button.png "button")
 
 ## Introduction 
