@@ -3,7 +3,7 @@
 An html-css development challenge for creating a simple button
 
 
-![css test image](static.pushe.co/challenge/css-button.png "button")
+![css test image](http://static.pushe.co/challenge/css-button.png "button")
 
 ## Introduction 
 In this challenge, you are going to develop above button with all its details without using any images.
